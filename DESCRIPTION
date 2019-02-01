@@ -1,0 +1,9 @@
+Package: knitr.timing
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: person("Yao", "Yu", email = "yuyao08@gmail.com", role = c("aut", "cre"))
+Description: This packages summirises chunk running time in rMarkdown report.
+Depends: R (>= 3.3.3)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
